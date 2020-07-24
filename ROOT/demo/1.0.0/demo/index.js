@@ -1,0 +1,1 @@
+console.log("I am demo/1.0.0/demo/index.js")
